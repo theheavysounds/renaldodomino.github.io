@@ -1,0 +1,52 @@
+.main {
+  text-align: center;
+  font-family: monospace;
+  max-width: 45rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+p {
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+.medium-image {
+  max-width: 38rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.medium-image img {
+  width: 100%;
+}
+
+.band-image {
+  max-width: 38rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.band-image img {
+  width: 100%;
+}
+
+.videos {
+  max-width: 38rem;
+  margin-left: auto;
+  margin: auto;
+}
+
+.embed-container {
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
+}
+.embed-container iframe {
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+}
