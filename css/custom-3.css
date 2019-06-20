@@ -50,3 +50,9 @@ p {
     width:100%;
     position:absolute;
 }
+
+.shows {
+  width: 560px;
+  margin-left: auto;
+  margin-right: auto;
+}
