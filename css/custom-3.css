@@ -25,6 +25,16 @@ p {
   width: 100%;
 }
 
+.small-image {
+  max-width: 28rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.small-image img {
+  width: 65%;
+}
+
 .band-image {
   max-width: 38rem;
   margin-left: auto;
