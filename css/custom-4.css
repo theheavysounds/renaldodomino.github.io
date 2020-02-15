@@ -10,6 +10,10 @@ body {
   margin-right: auto;
 }
 
+.main-title {
+  color: #fbf8ed;
+}
+
 p {
   padding-left: 1rem;
   padding-right: 1rem;
